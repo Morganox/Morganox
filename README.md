@@ -28,6 +28,15 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
-![Morganox github stats](https://github-readme-stats.vercel.app/api?username=Morganox&show_icons=true&theme=tokyonight)
+![Morganox github stats](https://github-readme-stats.vercel.app/api?username=Morganox&count_private=true&show_icons=true&theme=tokyonight)
 <br />
 [![HitCount](http://hits.dwyl.com/Morganox/Morganox.svg)](http://hits.dwyl.com/Morganox/Morganox)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morganox&repo=Morganox)](https://github.com/Morganox/Morganox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morganox&layout=compact)](https://github.com/Morganox/Morganox)
+
+[![Github Badge](https://img.shields.io/badge/-@Morganox-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Morganox)](https://github.com/Morganox)
+[![Gmail Badge](https://img.shields.io/badge/-@Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mcoy8830@gmail.com)](mailto:mcoy8830@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@yoelmorgan88-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yoelmorgan88)](https://instagram.com/yoelmorgan88)
+[![Twitter Badge](https://img.shields.io/badge/-@morganox881-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/morganox881)](https://twitter.com/morganox881)
