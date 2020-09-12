@@ -4,8 +4,16 @@
 
 <!--
 **Morganox/Morganox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
+- 🔭 I’m currently working on various web/app projects using React, and Node.js.
+- 🌱 I’m currently learning anything.
+- 👯 I’m looking to collaborate on on any project that'll help me learn new things!😊.
+- 🤔 I’m looking for help with ML.
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 How to reach me: mcoy8830@gmail.com [Twitter](https://twitter.com/morganox881), [Facebook](https://facebook.com/03281988m)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: [Here](https://www.google.com/search?q=im+feeling+curious)
+-->
 - 🔭 I’m currently working on various web/app projects using React, and Node.js.
 - 🌱 I’m currently learning anything.
 - 👯 I’m looking to collaborate on on any project that'll help me learn new things!😊.
@@ -29,10 +37,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
 ![Morganox github stats](https://github-readme-stats.vercel.app/api?username=Morganox&count_private=true&show_icons=true&theme=tokyonight)
-<br />
-[![HitCount](http://hits.dwyl.com/Morganox/Morganox.svg)](http://hits.dwyl.com/Morganox/Morganox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morganox&repo=Morganox)](https://github.com/Morganox/Morganox)
+[![HitCount](http://hits.dwyl.com/Morganox/Morganox.svg)](http://hits.dwyl.com/Morganox/Morganox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morganox&layout=compact)](https://github.com/Morganox/Morganox)
 
